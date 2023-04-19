@@ -1,5 +1,4 @@
- ![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
- [![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/axgh1?tab=repositories)
+[![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/axgh1?tab=repositories)
 [![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/axgh1) 
 
 # IBM Data Analyst Professional <img src="https://raw.githubusercontent.com/roshangrewal/IBM-Data-Science-Professional-Certification/master/IBM-Banner.png" align="right" width="120" />
@@ -21,6 +20,11 @@ Power your data analyst career by learning the core principles of data analysis 
 - [x] [__IBM Data Analyst Capstone Project__](https://github.com/axgh1/IBM-Data-Analyst-Capstone-Project)
 
 This course is part of the IBM Data Analyst Professional Ceritifcate in which I was able to apply various Data Analytics skills and techniques that I have learned as part of the previous courses in the IBM Data Analyst Professional Certificate. I assumed the role of an Associate Data Analyst who has recently joined the organization and be presented with a business challenge that requires data analysis to be performed on real-world datasets. 
+ 
+ 1. Explore the Data Set
+ 2. Data Wrangling
+ 3. Exploratory Data Analysis
+ 4. Data Vizualization
 
 <p align="center">
 <img src="/certificate/IBM%20Data%20Analyst%20Capstone%20Project-1.png" width=60% height=60%>
