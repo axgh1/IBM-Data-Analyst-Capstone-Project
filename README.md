@@ -19,7 +19,7 @@ Power your data analyst career by learning the core principles of data analysis 
 
 - [x] [__IBM Data Analyst Capstone Project__](https://github.com/axgh1/IBM-Data-Analyst-Capstone-Project)
 
-This course is part of the IBM Data Analyst Professional Ceritifcate in which I was able to apply various Data Analytics skills and techniques that I have learned as part of the previous courses in the IBM Data Analyst Professional Certificate. I assumed the role of an Associate Data Analyst who has recently joined the organization and be presented with a business challenge that requires data analysis to be performed on real-world datasets. 
+In this course I was able to apply various Data Analytics skills and techniques that I have learned as part of the previous courses in the IBM Data Analyst Professional Certificate. I assumed the role of an Associate Data Analyst who has recently joined the organization and be presented with a business challenge that requires data analysis to be performed on real-world datasets. 
  
  1. Explore the Data Set
  2. Data Wrangling
