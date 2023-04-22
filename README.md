@@ -25,6 +25,7 @@ In this course I was able to apply various Data Analytics skills and techniques 
  2. Data Wrangling
  3. Exploratory Data Analysis
  4. Data Vizualization
+ 5. Building A Dashboard
 
 <p align="center">
 <img src="/certificate/IBM%20Data%20Analyst%20Capstone%20Project-1.png" width=60% height=60%>
