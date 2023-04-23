@@ -28,7 +28,7 @@ In this course I was able to apply various Data Analytics skills and techniques 
  5. [Building A Dashboard](https://jp-tok.dataplatform.cloud.ibm.com/dashboards/06e486d6-5be3-4752-af8f-1545d26276b3/view/5420c30b17bd0f954be7d4e407cd7f032f33740cb2bb815186837b495a337397f36a1190c87c480e89170361fbe5140c9f)
 
 <p align="center">
-[__Data Analyst Capstone Project Badge__]https://www.credly.com/badges/1abfe9da-dc11-4758-ad3f-b192b55683a5
+[__Data Analyst Capstone Project Badge__](https://www.credly.com/badges/1abfe9da-dc11-4758-ad3f-b192b55683a5)
 
 ---
 <p>&copy; 2023 Aahd Ghafri</p>
